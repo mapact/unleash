@@ -1,28 +1,9 @@
-# Welcome!
+# UNLEASH!
 
-This repository highlights the range of technical resources availble for Microsoft partners and customers, curated by the Cloud Solution Architect (Partner) team in APAC.
+This repository is aimed at developing capabilities of key services and ISV partners to drive adoption of Azure as a platform
+of choice for Application modernization. It will be composed of Self learning paths, Architectural Guidance Materials, Customer
+Sales Deck.
 
-Do watch this repo to get the latest updates on what's available.
-
-## MAPACT
-
-[This org](https://github.com/mapact) tracks the repositories of the various tools, walkthroughs, examples, etc. created by Microsoft APAC technical folks.
-
-## Training plans
-
-[Training plans](https://github.com/mapact/trainingplans)  from Microsoft's Partner Cloud Solution Architect team. Great when building tech practices based around Azure services.
-
-## Cloud Adoption Framework for Azure 
-
-[Cloud Adoption Framework for Azure - Terraform landing zones](https://github.com/aztfmod) The future of cloud infrastructure starts here.
-
-## 3nodes (Quorum on Azure)
-
-[3nodes](https://github.com/vitoc/3nodes): Private transactions on Azure Blockchain Service
-
-## Feed
-
-[Follow our Twitter](https://twitter.com/home) for updates from the APAC Cloud Solution Architect team (for partners).
 
 # Contributing
 
