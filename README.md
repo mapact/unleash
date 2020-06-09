@@ -4,6 +4,23 @@ This repository is aimed at developing capabilities of key services and ISV part
 of choice for Application modernization. It will be composed of Self learning paths, Architectural Guidance Materials, Customer
 Sales Deck.
 
+# Learning path and Architecture Guidance
+
+## Learning
+
+| Name 	| Link 	| Service 	| Comment 	|
+|-	|-	|-	|-	|
+|  Learning Path AKS 	| https://docs.microsoft.com/en-us/learn/browse/?term=kubernetes 	| AKS 	|  	|
+| Learning Path Devops 	| https://docs.microsoft.com/en-us/learn/browse/?roles=devops-engineer 	| Devops 	|  	|
+| Kubernetes from Zero to Hero 	| https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/ 	| K8s 	|  	|
+| App Dev Training Plan 	| https://github.com/mapact/trainingplans/blob/master/AppDev.pdf 	| AppDev 	|  	|
+
+
+## Architecture Guidance
+| Name 	| Link 	| Service 	| Comment 	|
+|-	|-	|-	|-	|
+| AKS & OSS Database Architectural Guidance 	| https://microsoftapc.sharepoint.com/:p:/r/teams/ProjecUnleash/_layouts/15/Doc.aspx?sourcedoc=%7B682C9D65-4489-45CC-B39D-0129F6953132%7D&file=Cloud%20Native%20Kubernetes%20Architectural%20Guidance.pptx&action=edit&mobileredirect=true 	| AKS 	|  	|
+
 
 # Contributing
 
