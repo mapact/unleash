@@ -19,7 +19,7 @@ Sales Deck.
 ## Architecture Guidance
 | Name 	| Link 	| Service 	| Comment 	|
 |-	|-	|-	|-	|
-| AKS & OSS Database Architectural Guidance 	| https://microsoftapc.sharepoint.com/:p:/r/teams/ProjecUnleash/_layouts/15/Doc.aspx?sourcedoc=%7B682C9D65-4489-45CC-B39D-0129F6953132%7D&file=Cloud%20Native%20Kubernetes%20Architectural%20Guidance.pptx&action=edit&mobileredirect=true 	| AKS 	|  	|
+| AKS & OSS Database Architectural Guidance 	| [Architecture Guidance](assets//Cloud%20Native%20Kubernetes%20Architectural%20Guidance-90835751.000.pdf) 	| AKS 	|  	|
 
 
 # Contributing
