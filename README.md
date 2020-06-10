@@ -19,7 +19,7 @@ Sales Deck.
 ## Architecture Guidance
 | Name 	| Link 	| Service 	| Comment 	|
 |-	|-	|-	|-	|
-| AKS & OSS Database Architectural Guidance 	| [Architecture Guidance](assets//Cloud%20Native%20Kubernetes%20Architectural%20Guidance-90835751.000.pdf) 	| AKS 	|  	|
+| AKS & OSS Database Architectural Guidance 	| [Architecture Guidance](assets//Cloud%20Native%20Kubernetes%20Architectural%20Guidance.pdf) 	| AKS 	|  	|
 
 
 # Contributing
