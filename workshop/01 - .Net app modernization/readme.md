@@ -1,3 +1,3 @@
-•	Presentation
-•	Whiteboard Design Session
-•	Hands-on Lab
+*	Presentation
+*	Whiteboard Design Session
+*	Hands-on Lab
