@@ -1,8 +1,6 @@
 * DevOps Introduction
-* Continuous Integration
-* Continuous Deployment
-* Version Control
-* CI/CD Pipelines
-* Infrastructure as code
-* Azure DevOps
+* Microsoft and OpenSource
+* Azure Devops and Features
+* Github & Azure Devops Better together
+* Cloud connected apps with Appcenter 
 * Demo
