@@ -1,6 +1,8 @@
-* DevOps Introduction
-* Microsoft and OpenSource
-* Azure Devops and Features
+* What is DevOps?
+* Why Devops is important?
+* Continuous Integration & Continuous Delivery
+* Building Right pipelines
 * Github & Azure Devops Better together
-* Cloud connected apps with Appcenter 
-* Demo
+* Engineer's guide to a good night sleep 
+* Demo (Azure Devops, AppCenter)
+* QnA
