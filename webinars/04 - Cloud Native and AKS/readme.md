@@ -1,10 +1,10 @@
 # Agenda
 
-* Demistifying Cloud Native
-* Kubernetes and AKS
-* What's new in AKS
-* Dev Spaces
-* Integration with Azure DevOps and GitHub
-* Common Architecture
-* ACI & Virtual Kubelet
-* Demo
+* Demystifying Cloud Native 
+* Crash course: Containers, Docker, and Kubernetes
+* Kubernetes on Azure: top scenarios and reference architecture
+* Best practices
+* Scaling apps on AKS (Azure Kubernetes Services)
+* What’s new in AKS? 
+* What to expect in the next session
+* Reference and learn more
