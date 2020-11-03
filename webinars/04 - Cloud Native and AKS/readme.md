@@ -11,4 +11,4 @@
 
 # Post Event
 * [Slide can be found here](slides/Unleash-CloudNativeAKS-share.pdf)
-* [Video recording can be found here][https://www.youtube.com/watch?v=utuX4nq2-DE]
+* [Video recording can be found here](https://www.youtube.com/watch?v=utuX4nq2-DE)
