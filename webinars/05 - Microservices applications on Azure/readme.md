@@ -1,8 +1,16 @@
 # Agenda
 
-* Microservices architecture 101 (Monolithic vs Microservices, Characteristics, Benefits and drawbacks)
-* Clarifying common confusion
-* Journey to Microservices How to get there?
+* The background of microservices
+* Characteristics
+* Journey to microservices
+* Demo of eShopOnContainers
+* Drawbacks and challenges
 * Critical success criteria
-* Azure services for building Microservices based application
-* Case studies
+* Azure component in building microservices
+* Bridge to Kubernetes Demo
+* When to use what
+* References
+
+# Post Event
+* [Slide can be found here](slides/Unleash-Microservices%20Architectures-Share.pdf)
+* [Video recording can be found here](https://www.youtube.com/watch?v=PJjDw4fecSw)
